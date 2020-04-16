@@ -16,9 +16,12 @@ function johnLennonFacts(facts) {
     var fact = facts[i] + '!!!'
     arr.push(fact);
   }
+  i++;
   return arr;
 }
 function iLoveTheBeatles(n) {
   var arr = [];
+  var i = 0;
   
+  i ++
 }
