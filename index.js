@@ -29,6 +29,5 @@ function iLoveTheBeatles(n) {
    i--;
    }
   }
-  }
  return arr;
 }
