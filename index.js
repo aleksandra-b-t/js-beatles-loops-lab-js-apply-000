@@ -19,16 +19,16 @@ function johnLennonFacts(facts) {
   i++;
   return arr;
 }
-function iLoveTheBeatles(n) {
-  var arr = [];
-  if (n < 15){
-  var i = 15 - n;
-  do {
-    while (i > 0){
-    arr.push('I love the Beatles!');
-      }
-  i--;
-  }
-  }
-  return arr;
-}
+// function iLoveTheBeatles(n) {
+//   var arr = [];
+//   if (n < 15){
+//   var i = 15 - n;
+//   do {
+//     while (i > 0){
+//     arr.push('I love the Beatles!');
+//       }
+//   i--;
+//   }
+//   }
+//   return arr;
+// }
